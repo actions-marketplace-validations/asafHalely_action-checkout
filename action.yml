@@ -1,4 +1,4 @@
-name: 'Checkout files'
+name: 'Checkout Repo or Files'
 description: 'download an artifact'
 author: 'Asaf Halely'
 inputs:
